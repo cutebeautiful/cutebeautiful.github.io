@@ -1,0 +1,62 @@
+ul li{
+  color:pink;
+  display: inline-block;
+  margin-left: 10px;
+}
+ul{
+  text-align:center;
+  padding:10px;
+}
+body{
+  background-repeat:no-repeat;
+  background-size:cover;
+  height: 100vh;
+}
+a:hover{
+  Color:black;
+}
+section{
+  background-color:crimson;
+  height:600px;
+  width:1000px;;
+  margin-left:150px;
+  margin-top:40px;
+  color:blue;
+  float:center;
+  padding:10px;
+}
+header{
+  background-color:yellow;
+  padding:5px;
+}
+aside{
+  width:45%;
+  height:500px;
+  background-color:yellow;
+  margin-top:50px;
+  color:purple;
+  padding:10px;
+}
+h1{
+  font-size:30px;
+  font-weight:bold;
+  font-family:cursive;
+}
+
+#hero{
+  color:crimson;
+  font-size:50px;
+  text-align:center;
+  font-style: italic;
+  margin-top: 205px;
+}
+button{
+  border-radius:10px;
+  font-size:30px;
+  color:blue;
+  font-style: italic;
+  background-color: crimson;
+}
+.btn:hover{
+  background-color: purple;
+}
