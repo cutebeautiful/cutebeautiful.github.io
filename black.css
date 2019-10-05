@@ -1,7 +1,7 @@
 ul li{
   color:pink;
-  display: inline-block;
-  margin-left: 10px;
+  display:inline-block;
+  margin-left:25px;
 }
 ul{
   text-align:center;
