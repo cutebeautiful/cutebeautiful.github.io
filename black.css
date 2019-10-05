@@ -13,7 +13,7 @@ body{
   height: 100vh;
 }
 a:hover{
-  Color:black;
+  Color:yellow;
 }
 section{
   background-color:crimson;
@@ -21,7 +21,7 @@ section{
   width:1000px;;
   margin-left:200px;
   margin-top:40px;
-  color:yellow;
+  color:blue;
   float:center;
   padding:10px;
 }
